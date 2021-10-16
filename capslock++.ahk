@@ -47,7 +47,7 @@ SetTimer, TrayMenuRefresh, 250
 return
 
 OpenGithub:
-run https://github.com/matrix1001/capslock-plus-plus
+run https://github.com/CangShYao/capslock-plus-plus
 return
 OpenScriptDir:
 run %A_ScriptDir%
