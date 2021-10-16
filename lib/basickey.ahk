@@ -52,6 +52,10 @@ UnixPaste()
 {
     Send, +{Insert}
 }
+SelectAll()
+{
+    Send, ^a
+}
 NextDesktop()
 {
     Send, #^{Right}
